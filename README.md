@@ -1,7 +1,10 @@
 BitMigrateWP
 ===
 
-Automatic migration for WordPress websites
+Automatic migration-assistent for WordPress websites.
+
+===
+This plugin updates automatically all the links to match the new domain after migration.
 
 
 How to use
