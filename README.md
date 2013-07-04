@@ -6,6 +6,8 @@ Automatic migration-assistent for WordPress websites.
 ===
 This plugin updates automatically all the links to match the new domain after migration.
 
+Download plugin: https://github.com/doublebit/BitMigrateWP/releases/0.9/1492/bitmigratewp.zip
+
 
 How to use
 ---
